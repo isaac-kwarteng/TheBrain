@@ -1,0 +1,21 @@
+Stop_id,Stop_name,Stop_lat,Stop_long,location_type,parent_station
+OTA1,Suame Taxi Station,6.699,-1.619,Platform,0
+SA2,Manhyia Traffic Light Junction,6.70167,-1.61669,Boarding,4
+SA3,Mr and Lady Boutique,6.70108,-1.61576,Boarding,4
+SA4,Roxy Junction,6.70055,-1.61492,Boarding,4
+SA5,Areeba Junction,6.69973,-1.61359,Boarding,4
+SA6,Shell Filling Station,6.69912,-1.61242,Boarding,4
+SA7,Total Energies,6.69905,-1.61199,Boarding,4
+SA8,Central Mosque,6.69914,-1.61046,Boarding,4
+SA9,Central Mosque Junction,6.69974,-1.60926,Boarding,4
+SA10,Odotobri Junction,6.69857,-1.60845,Boarding,4
+DTA11,Total Energies Asawase,6.69717,-1.60753,Platform,0
+OTB12,Total Energies Asawase,6.69716,-1.60731,Platform,0
+SB13,Central Mosque,6.69954,-1.6099,Boarding,4
+SB14,Total Energies,6.69918,-1.61174,Boarding,4
+SB15,Areeba Junction,6.69994,-1.61368,Boarding,4
+SB16,Roxy Junction,6.70062,-1.61488,Boarding,4
+SB17,Mr and Lady Boutique,6.70112,-1.615642,Boarding,4
+SB18,Manhyia Traffic Light Junction,6.70174,-1.61664,Boarding,4
+SB19,Alabar Junction,6.7009,-1.61751,Boarding,4
+DTB20,Suame Taxi Station,6.69954,-1.61843,Platform,0

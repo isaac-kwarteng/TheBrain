@@ -21,18 +21,18 @@ import asyncio
 # asyncio.run(main())
 
 
-# 
+#
 # async def fetch_data(delay, id):
 #     print("Fetching data.. id:", id)
 #     await asyncio.sleep(delay)
 #     print("Data fetched, id:", id)
 #     return {"data": "Some data", "id": id}
-# 
-# 
+#
+#
 # async def main():
 #     result = await asyncio.gather(fetch_data(1, 2), fetch_data(1, 3), fetch_data(1, 4))
 #     print(result)
-# 
+#
 # asyncio.run(main())
 
 
@@ -50,11 +50,10 @@ async def main():
             tasks.append(task)
 
         # After the Task Group block, all tasks have completed
-        results  = [task.result() for task in tasks]
+        results = [task.result() for task in tasks]
 
         for result in results:
             print(f"Received result: {result}")
-
 
 
 asyncio.run(main())
